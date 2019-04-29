@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="12">
+      <Unit0>
+        <Filename Value="GrosseTete.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="16" Y="16"/>
+        <UsageCount Value="73"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="52"/>
+        <CursorPos X="31" Y="60"/>
+        <UsageCount Value="73"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="54"/>
+        <CursorPos X="14" Y="62"/>
+        <UsageCount Value="73"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="unit3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form3"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit3"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="834"/>
+        <CursorPos Y="174"/>
+        <FoldState Value=" T3jW073 piXj50R4]9djX0G1 T1jg06+"/>
+        <UsageCount Value="68"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="unit4.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form4"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit4"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="28"/>
+        <CursorPos X="14" Y="49"/>
+        <UsageCount Value="21"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="unit5.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form5"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit5"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="12"/>
+        <CursorPos X="211" Y="37"/>
+        <UsageCount Value="21"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="../Public/lazarus-ccr-svn-r6831-components-playsoundpackage/latest_stable/playsoundackage.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="../Public/lazarus-ccr-svn-r6831-components-playsoundpackage/latest_stable/playwavepackage.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="/usr/lib/lazarus/1.8.2/ide/lazarus.pp"/>
+        <UnitName Value="Lazarus"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="../Game via Lazarus/unit2.pas"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <UsageCount Value="7"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="../Script/MiniProjetPascal/unit3.lfm"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="../Script/MiniProjetPascal/unit3.pas"/>
+        <UnitName Value="Unit3"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="733"/>
+        <CursorPos X="17" Y="658"/>
+        <UsageCount Value="10"/>
+      </Unit11>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>
